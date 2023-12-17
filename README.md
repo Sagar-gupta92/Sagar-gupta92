@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Sagar-gupta92
--💫 i'm currently in LNCT group 
+- 👋 Hi, I’m Sagar 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on my website design 
